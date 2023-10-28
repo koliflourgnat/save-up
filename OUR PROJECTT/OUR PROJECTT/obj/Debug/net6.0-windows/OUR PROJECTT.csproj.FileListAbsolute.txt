@@ -1,0 +1,17 @@
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\bin\Debug\net6.0-windows\OUR PROJECTT.exe
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\bin\Debug\net6.0-windows\OUR PROJECTT.deps.json
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\bin\Debug\net6.0-windows\OUR PROJECTT.runtimeconfig.json
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\bin\Debug\net6.0-windows\OUR PROJECTT.dll
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\bin\Debug\net6.0-windows\OUR PROJECTT.pdb
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR_PROJECTT.Form1.resources
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR_PROJECTT.Properties.Resources.resources
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR PROJECTT.csproj.GenerateResource.cache
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR PROJECTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR PROJECTT.AssemblyInfoInputs.cache
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR PROJECTT.AssemblyInfo.cs
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR PROJECTT.csproj.CoreCompileInputs.cache
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR PROJECTT.dll
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\refint\OUR PROJECTT.dll
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR PROJECTT.pdb
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\OUR PROJECTT.genruntimeconfig.cache
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\OUR PROJECTT\OUR PROJECTT\obj\Debug\net6.0-windows\ref\OUR PROJECTT.dll
