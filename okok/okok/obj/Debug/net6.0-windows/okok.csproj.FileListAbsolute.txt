@@ -1,0 +1,17 @@
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\bin\Debug\net6.0-windows\okok.exe
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\bin\Debug\net6.0-windows\okok.deps.json
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\bin\Debug\net6.0-windows\okok.runtimeconfig.json
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\bin\Debug\net6.0-windows\okok.dll
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\bin\Debug\net6.0-windows\okok.pdb
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.Form1.resources
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.Properties.Resources.resources
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.csproj.GenerateResource.cache
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.AssemblyInfoInputs.cache
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.AssemblyInfo.cs
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.csproj.CoreCompileInputs.cache
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.dll
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\refint\okok.dll
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.pdb
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\okok.genruntimeconfig.cache
+C:\Users\gamal\Documents\Visual Studio 2022\Templates\ItemTemplates\C#\okok\okok\obj\Debug\net6.0-windows\ref\okok.dll
